@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in [DataTrained](https://www.datatrained.com/).
 - 🌱 I’m currently learning BigData.
-- 👯 I’m looking to collaborate on [You tube - DataDeeds](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw).
+- 👯 I’m looking to collaborate on [you tube](DataDeeds%5D%28https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw%29).
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about Data Science or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @uni_abhi](https://twitter.com/uni_abhi), [Linkedin - Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-96bb40186/), [You tube - DataDeeds](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw), [Instagram - DataDeeds](https://www.instagram.com/data_deeds/)

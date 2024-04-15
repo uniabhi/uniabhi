@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [You Tube](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw).
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about Data Science or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @uni_abhi](https://twitter.com/uni_abhi), [Linkedin - Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-96bb40186/), [You tube - DataDeeds](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw), [Instagram - DataDeeds](https://www.instagram.com/data_deeds/). [Kaggle - Abhishek Kumar]( https://www.kaggle.com/uniabhi)
+- 📫 How to reach me: [Linkedin - Abhishek Kumar](https://www.linkedin.com/in/abhikr56/), [You tube - DataDeeds](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw), [Kaggle - Abhishek Kumar]( https://www.kaggle.com/uniabhi)
 - 😄 Pronouns: He/His
 
 

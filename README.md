@@ -4,7 +4,7 @@
 
 ### Hola, I'm Abhishek Kumar! 👋
 
-- 🔭 I’m currently working in [Ineuron.Ai].
+- 🔭 I’m currently working AS [FREELANCER].
 - 🌱 I’m currently learning Generative AI.
 - 👯 I’m looking to collaborate on [You Tube](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw).
 - 🤔 I’m looking for help with Open Source.

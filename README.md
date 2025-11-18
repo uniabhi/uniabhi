@@ -4,8 +4,8 @@
 
 ### Hola, I'm Abhishek Kumar! 👋
 
-- 🔭 I’m currently working AS [FREELANCER].
-- 🌱 I’m currently learning Generative AI.
+- 🔭 I’m currently working AS AI/ML Engineer.
+- 🌱 I’m currently learning MLOPS.
 - 👯 I’m looking to collaborate on [You Tube](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw).
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about Data Science or any tech-related stuff.

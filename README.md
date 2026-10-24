@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Kumar 👋
 
-Computer Vision Engineer based in India, building detection, pose estimation, and model deployment pipelines. My background in keypoint annotation shapes how I think about dataset quality, because model performance starts with the labels.
+Computer Vision Engineer based in India, building detection, pose estimation, and model deployment pipelines.
 
 - 🔭 **Currently:** Computer Vision Engineer, working on Pose estimation, object tracking, YOLO detection, MobileNet classification, OCR, MLops and model deployment
 

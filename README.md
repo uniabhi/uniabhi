@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [You Tube](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw).
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about Data Science or any tech-related stuff.
-- 📫 How to reach me: [Linkedin - Abhishek Kumar](https://www.linkedin.com/in/abhikr56/)), [You tube - AdvestoCodeLab
+- 📫 How to reach me:  [You tube - AdvestoCodeLab
 ](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw),. [Kaggle - Abhishek Kumar]( https://www.kaggle.com/uniabhi)
 - 😄 Pronouns: He/His
 

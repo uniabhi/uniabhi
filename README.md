@@ -6,10 +6,8 @@ Computer Vision Engineer based in India, building detection, pose estimation, an
 
 ## 📫 Connect
 
-- GitHub: http://github.com/uniabhi
 - YouTube: [AdvestoCodeLab](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw)
 - Kaggle: [uniabhi](https://www.kaggle.com/uniabhi)
-- DAGsHub: [uniabhi5684](https://dagshub.com/uniabhi5684)
 
 ## 🛠️ Technical Skills
 

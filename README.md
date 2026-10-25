@@ -6,6 +6,7 @@ Computer Vision Engineer based in India, building detection, pose estimation, an
 
 ## 📫 Connect
 
+- Email: abhishek074.kr@gmail.com
 - YouTube: [AdvestoCodeLab](https://www.youtube.com/channel/UCe9UFweyleD7v7NnzJc-4aw)
 - Kaggle: [uniabhi](https://www.kaggle.com/uniabhi)
 
